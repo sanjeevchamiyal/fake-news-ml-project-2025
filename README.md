@@ -46,9 +46,6 @@ This project is a **Fake News Detection System** that classifies news articles a
 - Add **real-time web scraping** for automatic fact-checking.
 - Integrate **explainability features** to understand model decisions.
 
-## Contributors
-- Aastha Sharma
-
 ## License
 This project is open-source under the **MIT License**.
 
